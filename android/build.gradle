@@ -16,6 +16,8 @@ buildscript {
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
     }
+    //some time we have need update some of the dependencies
+    
 }
 
 apply plugin: "com.facebook.react.rootproject"
